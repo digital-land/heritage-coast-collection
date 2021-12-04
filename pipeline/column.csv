@@ -2,4 +2,4 @@ pipeline,resource,pattern,value
 heritage-coast,,WKT,geometry
 heritage-coast,,DESIG_DATE,start-date
 heritage-coast,,HOTLINK,documentation-url
-heritage-coast,,REF_CODE,geography
+heritage-coast,,REF_CODE,heritage-coast
