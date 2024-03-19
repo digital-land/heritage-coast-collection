@@ -1,4 +1,4 @@
-# Heritage Coast collection
+# Heritage Coast collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/heritage-coast-collection/blob/master/LICENSE)
 
